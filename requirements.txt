@@ -1,0 +1,10 @@
+langchain_core
+streamlit
+langchain_community
+pypdf
+langchainhub
+sentence_transformers
+PyPDF2
+langchain_ollama
+pdfplumber
+faiss-cpu
