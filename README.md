@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run the Application
 ```sh
-python app.py
+python rag.py
 ```
 
 ## 📖 Usage
